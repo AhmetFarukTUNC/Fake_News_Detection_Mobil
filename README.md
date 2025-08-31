@@ -31,7 +31,16 @@ HTTP Requests: http package in Flutter
 
 ### Screenshots
 
-[(Optional: Add screenshots of your Flutter app here.)](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
+![Home Page](assets/images/screenshot1.png)
 
 ### Developer
 
