@@ -31,16 +31,16 @@ HTTP Requests: http package in Flutter
 
 ### Screenshots
 
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
-![Home Page](assets/images/screenshot1.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/1.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/2.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/3.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/4.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/5.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/6.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/7.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/8.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/9.png)
+![Home Page](https://github.com/AhmetFarukTUNC/Fake_News_Detection_Mobil/blob/main/projectimages/10.png)
 
 ### Developer
 
